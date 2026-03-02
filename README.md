@@ -15,6 +15,8 @@ Uma ferramenta web moderna, rápida e privada para visualizar e pesquisar o teu 
 - 🌑 **Design Premium**: Interface escura e moderna inspirada na estética original do ChatGPT, otimizada para leitura prolongada.
 - 📱 **Responsivo**: Funciona perfeitamente em desktop e dispositivos móveis.
 
+[Testa AQUI Online](https://pedrofz84.github.io/chatgpt-viewer/)
+
 ## 🚀 Como Utilizar
 
 ### 1. Obter os teus dados do ChatGPT
@@ -58,7 +60,7 @@ Este projeto já inclui um **GitHub Action** para automação total.
 - Basta arrastar o ficheiro `conversations.json` para o navegador ou clicar no botão de importação.
 - As tuas conversas aparecerão na barra lateral, ordenadas pela data de atualização.
 
-## 🛠️ Stack Tecnológica
+## 🛠️ 
 
 - **Frontend**: React 18 + Vite
 - **Ícones**: Lucide React
